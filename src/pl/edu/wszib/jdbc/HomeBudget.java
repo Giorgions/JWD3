@@ -1,3 +1,4 @@
+/*
 package pl.edu.wszib.jdbc;
 
 import com.microsoft.sqlserver.jdbc.SQLServerDataSource;
@@ -68,3 +69,4 @@ public class HomeBudget {
         return NumberFormat.getCurrencyInstance().format(n);
     }
 }
+*/
